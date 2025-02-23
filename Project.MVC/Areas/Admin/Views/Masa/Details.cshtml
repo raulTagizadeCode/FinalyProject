@@ -1,0 +1,60 @@
+﻿@using Project.DAL.Models
+@model Masa
+<!-- Begin Page Content -->
+<div class="container">
+	<div class="card shadow mb-4">
+		<div class="card-header py-3">
+			<h6 class="m-0 font-weight-bold text-primary">Foods Details</h6>
+		</div>
+		
+		<div class="card-body">
+			<p>Id: @Model.Id</p>
+			<p>Number: @Model.TableNumber</p>
+			<p>TableCategoryNumber: @Model.TableCategoryNumberId</p>
+			<p>TableCategoryPlace: @Model.TableCategoryPlaceId</p>
+			<p>Create time: @Model.CreatedAt</p>
+			@if (Model.UpdateAt is not null)
+			{
+				<p>Update time: @Model.UpdateAt</p>
+			}
+
+		</div>
+	</div>
+</div>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">ReservationTime</th>
+			<th scope="col">PersonCount</th>
+			<th scope="col">CreatedAt</th>
+			<th scope="col">confirmation</th>
+			<th scope="col">masaid</th>
+			<th width="300">Actions</th>
+
+		</tr>
+	</thead>
+	<tbody>
+	<tbody>
+			@foreach (Reservation item in Model.Reservations.Where(r => r.CreatedAt.Date == DateTime.Today))
+			{
+			<tr>
+				<th scope="row">@item.Id</th>
+				<td>@item.ReservationTime</td>
+				<td>@item.PersonCount</td>
+				<td>@item.CreatedAt</td>
+				<td>@item.confirmation</td>
+				<td>@item.Masa.Id</td>
+				<td>
+					<a class="btn btn-primary" asp-controller="Masa" asp-action="TrueMasa" asp-route-id="@item.Masa.Id">ActiveMasa</a>
+				<td>
+					<a class="btn btn-primary" asp-controller="Reservation" asp-action="Details" asp-route-id="@item.Id">Details</a>
+				</td>
+				</td>
+			</tr>
+			}
+	</tbody>
+
+	</tbody>
+</table>

@@ -1,0 +1,52 @@
+﻿﻿@using Project.DAL.Models
+@model Job
+<!-- Begin Page Content -->
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Item Details</h6>
+        </div>
+        <div class="card-body">
+            <p>Id:@Model.Id </p>
+            <p>Create time:@Model.CreatedAt </p>
+            <p>Name:@Model.Name </p>
+        </div>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Image</th>
+            <th scope="col">UserName</th>
+            <th scope="col">UserSurname</th>
+            <th scope="col">UserAge</th>
+            <th scope="col">UserEmail</th>
+            <th scope="col">CreateAt</th>
+            <th width="300">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (JobApplication item in Model.JobApplications)
+        {
+            @if(item.JobStatus == Project.DAL.Enums.JobStatus.Pending)
+            {
+                <tr>    
+                    <th scope="row">@item.Id</th>
+                    <td> <img width="50" src="~/uploads/personals/@item.ImageUrl"> </td>
+                    <td>@item.UserName</td>
+                    <td>@item.UserSurname</td>
+                    <td>@item.UserAge</td>
+                    <td>@item.UserEmail</td>
+                    <td>@item.CreatedAt</td>
+                    <td>@item.JobStatus</td>
+                 
+                    <td>
+                        <a class="btn btn-primary" asp-controller="JobApplication" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    </td>
+                </tr>
+            }
+            
+        }
+    </tbody>
+</table>

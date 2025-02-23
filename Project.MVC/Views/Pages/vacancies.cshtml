@@ -1,0 +1,101 @@
+﻿@using Project.BL.DTOs.JobDTOs
+@model ICollection<GetJobDto>
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İş Elanları</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="job-list">
+		@foreach (GetJobDto item in Model)
+		{
+        <div class="job-card">
+            <h2 class="job-title">@item.Name</h2>
+            <div class="salary">@item.Salary AZN</div>
+            <p class="description">İş barədə məlumat - @item.Description </p>
+            <p class="date">📅 @item.CreateAt</p>
+                <div class="buttons">
+                   <a asp-action="etrafli" asp-route-id="@item.Id" asp-controller="Pages"> <button class="details-btn">Ətraflı Məlumat</button></a>
+                    <a asp-action="Create"  asp-controller="Pages">
+                        <button class="apply-btn">Müraciət et</button>
+                    </a>
+
+                </div>
+        </div>
+
+        }
+    </div>
+</body>
+</html>
+
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        margin: 0;
+        padding: 20px;
+    }
+
+    .job-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    .job-card {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        border-left: 5px solid #900;
+    }
+
+    .job-title {
+        font-size: 18px;
+        margin: 0;
+        color: #333;
+    }
+
+    .category {
+        font-size: 14px;
+        color: #777;
+    }
+
+    .salary {
+        background: darkred;
+        color: white;
+        padding: 5px 10px;
+        display: inline-block;
+        margin: 10px 0;
+        font-weight: bold;
+        border-radius: 5px;
+    }
+
+        .salary.negotiable {
+            background: #a00;
+        }
+
+    .company {
+        font-weight: bold;
+        color: #444;
+    }
+
+    .description {
+        font-size: 14px;
+        color: #666;
+    }
+
+    .date {
+        font-size: 12px;
+        color: #aaa;
+        margin-top: 10px;
+    }
+
+</style>

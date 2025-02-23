@@ -1,0 +1,60 @@
+﻿@using Project.BL.DTOs.JobApplicationDTOs
+@model CreateJobApplicationDto
+@{
+    SelectList categories = ViewData["Job"] as SelectList;
+}
+
+<!-- Begin Page Content -->
+<div class="row align-items-center justify-content-center col-12 p-0 m-0">
+    <div class="card shadow col-lg-6 col-md-8 col-10 p-0">
+        <div class="card-header d-flex justify-content-between align-items-center py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Add Place</h6>
+        </div>
+        <div class="card-body">
+            <form class="container" method="POST" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label" asp-for="UserName"></label>
+                    <input class="form-control" asp-for="UserName" />
+                    <span class="text-danger" asp-validation-for="UserName"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="UserSurname"></label>
+                    <input class="form-control" asp-for="UserSurname" />
+                    <span class="text-danger" asp-validation-for="UserSurname"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="UserEmail"></label>
+                    <input class="form-control" asp-for="UserEmail" />
+                    <span class="text-danger" asp-validation-for="UserEmail"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="UserAge"></label>
+                    <input class="form-control" asp-for="UserAge" />
+                    <span class="text-danger" asp-validation-for="UserAge"></span>
+                </div>
+                <div class="mb-3">
+                    <select class="custom-select" asp-items="categories" asp-for="JobId">
+                        <option selected>Select Category</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="JobId"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Image"></label>
+                    <input class="form-control" asp-for="Image" />
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Cv"></label>
+                    <input class="form-control" asp-for="Cv" />
+                    <span class="text-danger" asp-validation-for="Cv"></span>
+                </div>
+               
+                <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->

@@ -1,0 +1,28 @@
+﻿@using Project.DAL.Models
+@model Order
+
+
+
+<script>
+	document.getElementById("orderForm").addEventListener("submit", function(event) {
+		event.preventDefault();
+
+		let location = document.getElementById("location").value;
+		let orderCategory = document.getElementById("orderCategory").value;
+
+		fetch('/Cart/SaveOrderDetails', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+			body: new URLSearchParams({ location: location, orderCategoryId: orderCategory })
+		})
+		.then(response => response.json())
+		.then(data => {
+			if (data.success) {
+				alert("Məlumat uğurla qeyd edildi!");
+			} else {
+				alert("Xəta baş verdi, yenidən cəhd edin!");
+			}
+		})
+		.catch(error => console.error("Xəta:", error));
+	});
+</script>

@@ -1,0 +1,126 @@
+﻿@using Project.DAL.Models
+@model Category
+
+<div class="container mt-4">
+    <!-- Category Menu -->
+    <div class="category-menu text-center mb-4">
+        <button class="category-btn active" asp-controller="Menu" asp-action="Index" onclick="changeCategory('test1')">Hamısı</button>
+        <button class="category-btn" onclick="changeCategory('test1')">FastFood</button>
+        <button class="category-btn" onclick="changeCategory('test2')">Soups</button>
+        <button class="category-btn" onclick="changeCategory('test3')">Fish</button>
+        <button class="category-btn" onclick="changeCategory('kebab')">Kabablar</button>
+    </div>
+
+    <h2 class="category-name text-center">@Model.Name</h2>
+    <p class="text-center">Dadlı @Model.Name menyusu</p>
+
+    @if (Model.Foods.Count != 0)
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" id="food-list">
+            @foreach (Food item in Model.Foods)
+            {
+                <div class="col food-item" data-category="@item.Category">
+                    <div class="card food-card shadow-sm">
+                        <a asp-controller="Menu" asp-action="Details" asp-route-id="@item.Id"><img src="~/uploads/foods/@item.ImageUrl" class="card-img-top food-image" alt="@item.Name"> </a>
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text price">@item.Price <i class="fa-solid fa-manat-sign"></i></p>
+                            <button class="btn btn-dark basket-btn">
+                                <i class="fa-solid fa-cart-shopping"></i> Səbətə at
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<style>
+    .category-menu {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+
+    .category-btn {
+        padding: 10px 15px;
+        border: none;
+        background-color: #ccc;
+        cursor: pointer;
+        border-radius: 5px;
+        font-size: 1rem;
+        transition: background 0.3s;
+    }
+
+        .category-btn.active {
+            background-color: black;
+            color: white;
+        }
+
+    .category-name {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .food-card {
+        border-radius: 12px;
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .food-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .food-image {
+        width: 100%;
+        height: 200px;
+        object-fit: contain;
+        background-color: #f8f9fa;
+        padding: 5px;
+    }
+
+    .price {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #d19c00;
+    }
+
+    .basket-btn {
+        background-color: black;
+        color: white;
+        font-size: 1rem;
+        padding: 10px 15px;
+        border-radius: 8px;
+        transition: background 0.3s;
+    }
+
+        .basket-btn:hover {
+            background-color: #d19c00;
+        }
+</style>
+
+<script>
+    function changeCategory(category) {
+        // Remove active class from all buttons
+        document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
+
+        // Add active class to the clicked button
+        event.target.classList.add('active');
+
+        // Filter food items
+        const foodItems = document.querySelectorAll('.food-item');
+        foodItems.forEach(item => {
+            if (category === 'all' || item.getAttribute('data-category') === category) {
+                item.style.display = 'block'; // Show the item
+            } else {
+                item.style.display = 'none'; // Hide the item
+            }
+        });
+    }
+</script>

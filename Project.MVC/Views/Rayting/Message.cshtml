@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;   
+}
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Şərh Bölməsi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .message {
+            color: red;
+            font-weight: bold;
+        }
+
+        textarea, button {
+            width: 100%;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="message" class="message">Zəhmət olmasa qeydiyyatdan keçib, sonra yorum yazın.</div>
+
+        <div id="comment-section" style="display: none;">
+            <textarea placeholder="Şərhinizi yazın..."></textarea>
+            <button>Göndər</button>
+        </div>
+    </div>
+
+    <script>
+        // İstifadəçinin qeydiyyatdan keçdiyini yoxlayan dəyişən
+        let isRegistered = false; // Burada true etsəniz, şərh hissəsi açılacaq
+
+        if (isRegistered) {
+            document.getElementById('message').style.display = 'none';
+            document.getElementById('comment-section').style.display = 'block';
+        }
+    </script>
+
+</body>
+</html>

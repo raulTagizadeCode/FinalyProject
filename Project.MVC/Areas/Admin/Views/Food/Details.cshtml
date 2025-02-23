@@ -1,0 +1,26 @@
+﻿@using Project.DAL.Models
+@model Food
+<!-- Begin Page Content -->
+<div class="container">
+	<div class="card shadow mb-4">
+		<div class="card-header py-3">
+			<h6 class="m-0 font-weight-bold text-primary">Foods Details</h6>
+		</div>
+		<div class="card-body">
+			<p>Id: @Model.Id</p>
+			<p>Title: @Model.Name</p>
+			<p>Description: @Model.Description</p>
+			<p>Price: @Model.Price</p>
+			<p>CategoryName: @Model.Category.Name</p>
+			<p>CategoryId: @Model.Category.Id</p>
+
+			<p>Create time: @Model.CreatedAt</p>
+			@if (Model.UpdateAt is not null)
+			{
+				<p>Update time: @Model.UpdateAt</p>
+			}
+			
+		</div>
+	</div>
+</div>
+<!-- /.container-fluid -->

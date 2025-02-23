@@ -1,0 +1,56 @@
+﻿<!-- Start Checkout Area -->
+<section class="our-checkout-area ptb--120 bg__white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-lg-8">
+                <div class="checkout-left-sidebar">
+                    <!-- Start Payment Details -->
+                    <div class="payment-form">
+                        <h2 class="section-title-3">Payment details</h2>
+                        <p>Please enter your payment information below.</p>
+                        <div class="payment-form-inner">
+                            <div class="single-checkout-box d-flex">
+                                <input type="text" placeholder="Name on Card*" class="form-control">
+                                <input type="text" placeholder="Card Number*" class="form-control">
+                            </div>
+                            <div class="single-checkout-box select-option d-flex">
+                                <select class="form-control">
+                                    <option>Expiration Date*</option>
+                                    <option>01/2025</option>
+                                    <option>02/2025</option>
+                                    <option>03/2025</option>
+                                    <option>04/2025</option>
+                                </select>
+                                <input type="text" placeholder="Security Code*" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Payment Details -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Checkout Area -->
+
+<style>
+    .single-checkout-box {
+        margin-bottom: 15px;
+    }
+
+        .single-checkout-box.d-flex {
+            display: flex;
+            gap: 15px;
+        }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    textarea.form-control {
+        height: 100px;
+    }
+</style>

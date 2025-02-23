@@ -1,0 +1,2109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.MVC.c9vmg9v8ok.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\core.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\custom.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\style-customizer.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\style-customizer.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\checkout\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\besr-product\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\besr-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\big-images\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\big-images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\blog-img\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\blog-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\blog\\sm-img\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\blog\\sm-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\brand\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\brand\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\brand\\3.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\brand\\4.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\brand\\5.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\comment\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\comment\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\comment\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\comment\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\comment\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\comment\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\checkout\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\feature-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\feature-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\feature-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\feature-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\feature-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\feature-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\feature-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\feature-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\close-20.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\close-20.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\close.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\loading.gif",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\map.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\next.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\prev.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\select-option-white.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\select-option-white.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\select-option.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\select-option.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\send-2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\send-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\icons\\send.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\icons\\send.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\logo\\Thumbs.db",
+      "PackagePath": "staticwebassets\\checkout\\images\\logo\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\logo\\uniqlo-large.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\logo\\uniqlo-large.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\logo\\uniqlo.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\logo\\uniqlo.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\8.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\new-product\\9.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\new-product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\others\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\others\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\10.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\11.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\12.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\13.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\14.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\15.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\16.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\17.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\18.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\19.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\20.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\8.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro-2\\9.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\popular-pro\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\popular-pro\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\8.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation-2\\9.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\10.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\11.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\12.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\8.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\portfolio\\width-variation\\9.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\portfolio\\width-variation\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\3.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\4.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\5.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\6.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-3\\7.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-3\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\big-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\big-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\big-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\big-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\big-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\big-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\small-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\small-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\small-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\small-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\small-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\small-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product-details\\small-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product-details\\small-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\14.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\15.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\16.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\17.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\18.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\19.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\20.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\21.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\22.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\23.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\24.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\25.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\26.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\27.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\28.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\29.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\30.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\31.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\32.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\33.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\34.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\35.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\36.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\37.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\38.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\39.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\40.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\41.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\42.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\43.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\5.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\6.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\7.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\8.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\9.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\sm-img\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\sm-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\sm-img\\3.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\sm-img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\product\\sm-img\\4.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\product\\sm-img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\review\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\review\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\review\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\review\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\sidebar-img\\8.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\sidebar-img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\fornt-img\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\fornt-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\slider\\fornt-img\\man-style.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\slider\\fornt-img\\man-style.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\checkout\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\test\\client\\1.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\test\\client\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\test\\client\\2.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\test\\client\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\images\\test\\client\\3.png",
+      "PackagePath": "staticwebassets\\checkout\\images\\test\\client\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\main.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\style-customizer.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\style-customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\checkout\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\checkout\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\profilsekili.png",
+      "PackagePath": "staticwebassets\\img\\profilsekili.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\02cd0c54-e6fd-455b-92cd-d4986264d2c4634087d3-d987-48ff-b19a-fa835e39a96a87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\02cd0c54-e6fd-455b-92cd-d4986264d2c4634087d3-d987-48ff-b19a-fa835e39a96a87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\08c49652-708e-40e2-8d6c-2e6b263b07a7Screenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\08c49652-708e-40e2-8d6c-2e6b263b07a7Screenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\0d28a846-ddf9-4eda-9aa1-1256bf125429Screenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\0d28a846-ddf9-4eda-9aa1-1256bf125429Screenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\0d8d0e10-1d69-4c02-9e36-38abc53fc4b7Screenshot 2024-11-27 015802.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\0d8d0e10-1d69-4c02-9e36-38abc53fc4b7Screenshot 2024-11-27 015802.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\1c025f1a-72c7-4630-a003-52571ae8d440Screenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\1c025f1a-72c7-4630-a003-52571ae8d440Screenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\1e753596-fd29-4f83-aa0d-67c716de0bbcScreenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\1e753596-fd29-4f83-aa0d-67c716de0bbcScreenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\30ca1392-8f41-4488-ab5b-ebae265fc2fdcv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\30ca1392-8f41-4488-ab5b-ebae265fc2fdcv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\33582e92-f50a-404e-93d7-01ec19fa313aScreenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\33582e92-f50a-404e-93d7-01ec19fa313aScreenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\448c0261-e05c-4807-928c-de455ed1a8c8baklava.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\448c0261-e05c-4807-928c-de455ed1a8c8baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\51feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\51feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\634087d3-d987-48ff-b19a-fa835e39a96a87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\634087d3-d987-48ff-b19a-fa835e39a96a87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\6595bb3c-b2b9-4e88-9008-ef840dbacd4bcv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\6595bb3c-b2b9-4e88-9008-ef840dbacd4bcv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\756d5b31-8ed7-4528-982a-99fc5e281410cv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\756d5b31-8ed7-4528-982a-99fc5e281410cv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\7b51a911-a448-450c-967a-81efefa59953baliq 1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\7b51a911-a448-450c-967a-81efefa59953baliq 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\7d97aa46-fa73-469b-a904-ec9ac044ab16Screenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\7d97aa46-fa73-469b-a904-ec9ac044ab16Screenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\82bccfaa-6c66-4d5e-91e5-2402d5536d10cv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\82bccfaa-6c66-4d5e-91e5-2402d5536d10cv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\97408bd6-fc4f-4617-bbe9-98b69cda2630cv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\97408bd6-fc4f-4617-bbe9-98b69cda2630cv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\adc073dd-f7fe-4b60-ac6a-10627b5561e7limonlu.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\adc073dd-f7fe-4b60-ac6a-10627b5561e7limonlu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\bd500142-8e6c-4288-86c9-eaa61e384dcesitru.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\bd500142-8e6c-4288-86c9-eaa61e384dcesitru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\bdfeef96-2fd0-4474-a688-930ed6c52e68cv.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\bdfeef96-2fd0-4474-a688-930ed6c52e68cv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\c94ae6ae-f0e6-492d-a9c4-c1d47e75574eScreenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\c94ae6ae-f0e6-492d-a9c4-c1d47e75574eScreenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\fbca465b-1dab-45d9-82b3-d6f773aa6b34Screenshot 2024-11-27 014745.png",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\fbca465b-1dab-45d9-82b3-d6f773aa6b34Screenshot 2024-11-27 014745.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\cvs\\ff10ac30-c482-49fa-b1be-0b01532a415bbunu_silen_binnnandi.txt",
+      "PackagePath": "staticwebassets\\uploads\\cvs\\ff10ac30-c482-49fa-b1be-0b01532a415bbunu_silen_binnnandi.txt"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\03151df4-7ad1-454f-9a6b-2d4e2a0bf106harco.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\03151df4-7ad1-454f-9a6b-2d4e2a0bf106harco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\0b7bb706-fb0d-4640-b965-e3d35cdfb27cshaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\0b7bb706-fb0d-4640-b965-e3d35cdfb27cshaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\16bfd376-0664-4347-926a-1ddc47e79dc7ches.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\16bfd376-0664-4347-926a-1ddc47e79dc7ches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\19e8a6b2-405d-4d60-ab6c-e9b93db560a4yunan.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\19e8a6b2-405d-4d60-ab6c-e9b93db560a4yunan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\1ea38637-d973-45ae-b308-34e47e82ab23baliq 1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\1ea38637-d973-45ae-b308-34e47e82ab23baliq 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\2038a5b6-8c53-4e28-ac08-92ca82820966baliq 3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\2038a5b6-8c53-4e28-ac08-92ca82820966baliq 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\24cab589-879f-4768-a956-1a2b89da6b1cfishandchips.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\24cab589-879f-4768-a956-1a2b89da6b1cfishandchips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\28d9bb34-0b7a-4a5c-97fd-2cc5e4f1fe19ches.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\28d9bb34-0b7a-4a5c-97fd-2cc5e4f1fe19ches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\2eafd745-c977-46d8-90f8-4a325d1a33eclava.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\2eafd745-c977-46d8-90f8-4a325d1a33eclava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\2f3f5a0c-07f0-43c8-8fe0-2c4c5c888cc0tomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\2f3f5a0c-07f0-43c8-8fe0-2c4c5c888cc0tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\2f6581ba-5c4b-47f1-b33b-5da5c080f7d0hotdoh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\2f6581ba-5c4b-47f1-b33b-5da5c080f7d0hotdoh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\2f790db2-19c3-4a7d-9e60-8534e6011b6fqarpiz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\2f790db2-19c3-4a7d-9e60-8534e6011b6fqarpiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\310c3034-e454-4052-8df0-68d05ccc4585qutab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\310c3034-e454-4052-8df0-68d05ccc4585qutab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\31de3e91-b3f8-4975-8d09-ab58ddbcd927omlet.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\31de3e91-b3f8-4975-8d09-ab58ddbcd927omlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\33321225-53a6-4bac-a116-b108f8bd13b1panna.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\33321225-53a6-4bac-a116-b108f8bd13b1panna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\35ca1c1b-c6b4-4775-93fc-49050962861fsitru.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\35ca1c1b-c6b4-4775-93fc-49050962861fsitru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\3a11d59a-d051-4d57-a97c-00f46672ffcashaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\3a11d59a-d051-4d57-a97c-00f46672ffcashaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\3f1a4212-292b-4472-b672-9675dcc047cashaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\3f1a4212-292b-4472-b672-9675dcc047cashaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\3fd3dd9b-8889-4e65-aac2-6698ed5c291etomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\3fd3dd9b-8889-4e65-aac2-6698ed5c291etomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\47de4ccc-bbf9-45fe-8f19-f3ce694d5a38omlet.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\47de4ccc-bbf9-45fe-8f19-f3ce694d5a38omlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\4a8d4266-5b1d-4eef-a684-4ade477a2ef8mush.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\4a8d4266-5b1d-4eef-a684-4ade477a2ef8mush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\4c8c6448-6d37-467b-9f1e-58b5c560a2a6ches.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\4c8c6448-6d37-467b-9f1e-58b5c560a2a6ches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\4cd93ff0-7aee-451d-89a8-e61f8f0eabb9qutab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\4cd93ff0-7aee-451d-89a8-e61f8f0eabb9qutab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\4dc9c036-2b42-4ec0-a1a1-39dab65a57ccbors.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\4dc9c036-2b42-4ec0-a1a1-39dab65a57ccbors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\4e42734e-29dd-4ec0-a134-ce42276f001bmush.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\4e42734e-29dd-4ec0-a134-ce42276f001bmush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\56aaabd1-0608-477a-91b5-7ef65afc7badbaliq  5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\56aaabd1-0608-477a-91b5-7ef65afc7badbaliq  5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\58b5df82-243d-41e4-8bd8-c29a772c53b0limonlu.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\58b5df82-243d-41e4-8bd8-c29a772c53b0limonlu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\5df6ac6f-1c88-4690-8af7-4392d994b8c7shaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\5df6ac6f-1c88-4690-8af7-4392d994b8c7shaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\5fe6f448-4437-405f-b374-e3abc4482c28mushh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\5fe6f448-4437-405f-b374-e3abc4482c28mushh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6138d288-85e0-424f-bd2c-556bd41d6f98chic.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6138d288-85e0-424f-bd2c-556bd41d6f98chic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6d634b37-d84c-4c37-ba6d-8c9c894b62c9fatus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6d634b37-d84c-4c37-ba6d-8c9c894b62c9fatus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6e665ab4-474b-48eb-ade9-a4ca8747209bsezar.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6e665ab4-474b-48eb-ade9-a4ca8747209bsezar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6e69d651-83b1-4622-b8c0-e924fde97a84sitru.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6e69d651-83b1-4622-b8c0-e924fde97a84sitru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6e7095c9-44e3-4e43-9bb0-a742fc711c4fbaliq 3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6e7095c9-44e3-4e43-9bb0-a742fc711c4fbaliq 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\6ec9f297-78d0-451a-adf4-c99679de8b99shaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\6ec9f297-78d0-451a-adf4-c99679de8b99shaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\701b04b5-71ac-4f97-9e67-e0e3b177aa75tuna.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\701b04b5-71ac-4f97-9e67-e0e3b177aa75tuna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\71ede985-1903-4e54-857f-914b1ee4481abaliq 1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\71ede985-1903-4e54-857f-914b1ee4481abaliq 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\79246aa0-b632-4228-88df-493c8d2b014ebors.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\79246aa0-b632-4228-88df-493c8d2b014ebors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\7aa60a0d-fd3d-4779-8158-cb679c29638emushh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\7aa60a0d-fd3d-4779-8158-cb679c29638emushh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\7b23cdef-e934-4ea4-9cf3-04cba488376dqutab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\7b23cdef-e934-4ea4-9cf3-04cba488376dqutab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\7fc49f63-3179-41f2-9a80-775e6ce5c946tomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\7fc49f63-3179-41f2-9a80-775e6ce5c946tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\86866df4-7882-4fcf-9a41-62fefd0694aakrem.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\86866df4-7882-4fcf-9a41-62fefd0694aakrem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\86870ab6-30c5-436b-b375-935cd66f73f9hotdoh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\86870ab6-30c5-436b-b375-935cd66f73f9hotdoh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\89a9ac38-b83d-4bc6-bdfa-62cc782dad78baliq 3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\89a9ac38-b83d-4bc6-bdfa-62cc782dad78baliq 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\8aff0909-b45d-4154-8c97-d5ad3de64e50tomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\8aff0909-b45d-4154-8c97-d5ad3de64e50tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\8b6dc430-890d-436d-8741-f3216709c645shaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\8b6dc430-890d-436d-8741-f3216709c645shaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\95619e92-732f-480c-9911-12ee6d9160abtomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\95619e92-732f-480c-9911-12ee6d9160abtomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\9561e9e4-3ef1-44db-aaae-f07d79272989mush.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\9561e9e4-3ef1-44db-aaae-f07d79272989mush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\960059e8-33e4-48ac-a22b-1dad0b3c8bdeqarpiz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\960059e8-33e4-48ac-a22b-1dad0b3c8bdeqarpiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\9f01bcbb-ab61-4e75-9586-9396d034aee6fatus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\9f01bcbb-ab61-4e75-9586-9396d034aee6fatus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\a0ad8b0c-8d29-42dc-8de5-efe8f3adca09nuggets.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\a0ad8b0c-8d29-42dc-8de5-efe8f3adca09nuggets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\a98c2e2b-ec54-46e0-8cc0-06823ec8fea4shashlik.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\a98c2e2b-ec54-46e0-8cc0-06823ec8fea4shashlik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\a9a9b23d-478b-42b6-b584-da75cc73535btomato.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\a9a9b23d-478b-42b6-b584-da75cc73535btomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\a9b30e90-f4c0-4160-8bfa-f46426574a2etuna.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\a9b30e90-f4c0-4160-8bfa-f46426574a2etuna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\a9d48137-53b6-419e-926a-747fb864c0063.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\a9d48137-53b6-419e-926a-747fb864c0063.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\aa5b6dc9-8785-49ed-9a77-81a5710eac89mexica.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\aa5b6dc9-8785-49ed-9a77-81a5710eac89mexica.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\ab559f1e-4ddc-4175-9c69-31ed3acc82d3baliq 2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\ab559f1e-4ddc-4175-9c69-31ed3acc82d3baliq 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\c3eec45b-e2ba-402a-8003-6bdd78be54d0baliq  5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\c3eec45b-e2ba-402a-8003-6bdd78be54d0baliq  5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\c4d841f0-3c25-4e63-b4b1-3b529d299e21shaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\c4d841f0-3c25-4e63-b4b1-3b529d299e21shaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\c514db1f-bc18-4803-9ad9-ee5c2dd5321dqutab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\c514db1f-bc18-4803-9ad9-ee5c2dd5321dqutab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\c539b403-e0d2-4fef-96bf-f5aa2c7a33f7paella.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\c539b403-e0d2-4fef-96bf-f5aa2c7a33f7paella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\cae1b22a-9a02-4df4-8123-29b0505a53c7shaw.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\cae1b22a-9a02-4df4-8123-29b0505a53c7shaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\cc36e814-418f-4d08-90fe-45673bc3db3dbaklava.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\cc36e814-418f-4d08-90fe-45673bc3db3dbaklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\cd81ff23-25d3-41c5-bc9c-83d8f87e888amushh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\cd81ff23-25d3-41c5-bc9c-83d8f87e888amushh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\d1e6b951-9f39-4d96-a67d-d21feb13b737hotdoh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\d1e6b951-9f39-4d96-a67d-d21feb13b737hotdoh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\d6da0431-d4f3-40f6-a565-55b0dcde7446margarita.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\d6da0431-d4f3-40f6-a565-55b0dcde7446margarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\db19aa15-af5b-4b4c-93e3-a3d3a05d176bhotdoh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\db19aa15-af5b-4b4c-93e3-a3d3a05d176bhotdoh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\dc349005-186e-48fd-9f66-d9f4be982cadfishandchips.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\dc349005-186e-48fd-9f66-d9f4be982cadfishandchips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\eba9a0df-8d3d-46b0-8e85-90d49a992321panna.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\eba9a0df-8d3d-46b0-8e85-90d49a992321panna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\foods\\f2b1e35d-71e2-4d66-93f7-004e9cb8f825krem.jpg",
+      "PackagePath": "staticwebassets\\uploads\\foods\\f2b1e35d-71e2-4d66-93f7-004e9cb8f825krem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\0010c619-e23e-4ae4-a649-4ad38607e841qiz aspaz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\0010c619-e23e-4ae4-a649-4ad38607e841qiz aspaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\084311a8-4218-4ac4-b0c4-da6dcdedfff7profilsekili.png",
+      "PackagePath": "staticwebassets\\uploads\\personals\\084311a8-4218-4ac4-b0c4-da6dcdedfff7profilsekili.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\0d5f7fbe-9aa2-41b4-a11e-4d9939fa8408barmen.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\0d5f7fbe-9aa2-41b4-a11e-4d9939fa8408barmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\11a59d40-b5f8-4046-87c6-a2521715f812barmen.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\11a59d40-b5f8-4046-87c6-a2521715f812barmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\1c71adf0-b89e-4bb9-b699-6b38d4345fa0omlet.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\1c71adf0-b89e-4bb9-b699-6b38d4345fa0omlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\1fbc6422-9415-4c21-9909-806600a3cbc8Screenshot 2024-11-27 015802.png",
+      "PackagePath": "staticwebassets\\uploads\\personals\\1fbc6422-9415-4c21-9909-806600a3cbc8Screenshot 2024-11-27 015802.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\2683bee4-b218-4f4b-a9b7-cf676a5ce1a4sitru.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\2683bee4-b218-4f4b-a9b7-cf676a5ce1a4sitru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\2c4004e3-1e40-4fb9-b9ff-2a62288ad02fScreenshot 2024-11-27 015802.png",
+      "PackagePath": "staticwebassets\\uploads\\personals\\2c4004e3-1e40-4fb9-b9ff-2a62288ad02fScreenshot 2024-11-27 015802.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\3ac0c50c-a9a8-490b-9225-cd9842b5ab75barmen.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\3ac0c50c-a9a8-490b-9225-cd9842b5ab75barmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\a6599ca9-12d5-430d-90e5-4a09b8ac9ba2sitru.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\a6599ca9-12d5-430d-90e5-4a09b8ac9ba2sitru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\adb911ae-4167-4b5d-bdea-b4cd4d1e711fprofilsekili.png",
+      "PackagePath": "staticwebassets\\uploads\\personals\\adb911ae-4167-4b5d-bdea-b4cd4d1e711fprofilsekili.png"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\c2ae21a0-b845-434f-b8ce-0c560a6139a3qiz aspaz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\c2ae21a0-b845-434f-b8ce-0c560a6139a3qiz aspaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\ca232629-337d-4dfc-8e19-a9c234fde55baspaz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\ca232629-337d-4dfc-8e19-a9c234fde55baspaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\ce1eb51d-e005-4713-9aee-d3fe283bc0e5barmen.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\ce1eb51d-e005-4713-9aee-d3fe283bc0e5barmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\d7c05bf8-386d-4da7-9c33-b5539cfff767barmen.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\d7c05bf8-386d-4da7-9c33-b5539cfff767barmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\ea53e25f-01f3-425c-b317-b16b925e151eqarpiz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\ea53e25f-01f3-425c-b317-b16b925e151eqarpiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\wwwroot\\uploads\\personals\\f8a7ece0-9620-48e8-9de1-fbf302881b03hind.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personals\\f8a7ece0-9620-48e8-9de1-fbf302881b03hind.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project.MVC.props",
+      "PackagePath": "build\\Project.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Project.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project.MVC.props",
+      "PackagePath": "buildTransitive\\Project.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

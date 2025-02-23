@@ -1,0 +1,51 @@
+﻿@using Project.BL.DTOs.BasketItemDTOs
+@model ICollection<GetOrderDto>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header d-flex justify-content-between align-items-center py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Places</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>AppUserName</th>
+                            <th>Status</th>
+                            <th>CreatedAt</th>
+                            <th>City</th>
+                            <th>Location</th>
+                            <th width="300">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (GetOrderDto item in Model.Where(o => o.Status == Project.DAL.Models.OrderStatus.wasNoted))
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.AppUserName</td>
+                                <td>@item.Status</td>
+                                <td>@item.Created</td>
+                                <td>@item.OrderCategoryName</td>
+                                <td>@item.Location</td>
+                                <td class="d-flex justify-content-around">
+                                    <a class="btn btn-primary" asp-controller="Order" asp-action="Status" asp-route-id="@item.Id">Status</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->
+<!-- Page level plugins -->
+<script src="~/admin/vendor/datatables/jquery.dataTables.min.js" defer></script>
+<script src="~/admin/vendor/datatables/dataTables.bootstrap4.min.js" defer></script>
+
+<!-- Page level custom scripts -->
+<script src="~/admin/js/demo/datatables-demo.js" defer></script>

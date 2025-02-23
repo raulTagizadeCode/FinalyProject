@@ -1,0 +1,31 @@
+﻿﻿@using Project.DAL.Models
+@model JobApplication
+<!-- Begin Page Content -->
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Item Details</h6>
+        </div>
+        <div class="card-body">
+            <td>
+                @if (!string.IsNullOrEmpty(Model.CvUrl))
+                {
+                    <a href="~/uploads/cvs/@Model.CvUrl" target="_blank">CV-ni Aç</a>
+                }
+                else
+                {
+                    <span>Yüklənməyib</span>
+                }
+            </td>
+            <p>Id:@Model.Id </p>
+            <p>Name:@Model.UserName </p>
+            <p>Surname:@Model.UserSurname </p>
+            <p>Age:@Model.UserAge </p>
+            <p>Email:@Model.UserEmail </p>
+            <p>Create time:@Model.CreatedAt </p>
+        </div>
+        <td>
+            <a class="btn btn-primary" asp-controller="JobApplication" asp-action="Update" asp-route-id="@Model.Id">Update</a>
+        </td>
+    </div>
+</div>

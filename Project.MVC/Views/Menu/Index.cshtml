@@ -1,0 +1,147 @@
+﻿@using Project.BL.DTOs.CategoryDTOs
+@model ICollection<GetCategoryDto>
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center">
+            <h5 class="section-title text-orange fw-normal">Food Menu</h5>
+            <h1 class="mb-5">Most Popular Items</h1>
+        </div>
+
+        <!-- Axtarış və Qiymət Filtri -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-md-3">
+                <input type="text" id="searchBox" class="form-control" placeholder="Yemək adı ilə axtar...">
+            </div>
+            <div class="col-md-3">
+                <select id="categorySelect" class="form-control">
+                    <option value="">Kateqoriya seçin</option>
+                    @foreach (var item in Model)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-2">
+                <input type="number" id="minPrice" class="form-control" placeholder="Min ₼">
+            </div>
+            <div class="col-md-2">
+                <input type="number" id="maxPrice" class="form-control" placeholder="Max ₼">
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-orange w-100" onclick="search()">Axtar</button>
+            </div>
+        </div>
+
+        <!-- Kateqoriyalar -->
+        @* <div class="d-flex justify-content-center mb-4 flex-wrap"> *@
+        @*     @foreach (var item in Model) *@
+        @*     { *@
+        @*         <a asp-controller="Menu" asp-action="Info" asp-route-id="@item.Id" class="btn btn-outline-orange mx-2 mb-2">@item.Name</a> *@
+        @*     } *@
+        @* </div> *@
+
+        <!-- Yeməklər -->
+        <div class="row" id="productContainer">
+            @if (ViewBag.Products != null && ViewBag.Products.Count > 0)
+            {
+                @foreach (var product in ViewBag.Products)
+                {
+                    <div class="col-md-3">
+                        <div class="card menu-card">
+                            <a asp-route-id="@product.Id" asp-controller="Menu" asp-action="Details" >
+                                <img src="~/uploads/foods/@product.ImageUrl" class="card-img-top food-image" alt="@product.Name">
+
+                            </a>
+                            <div class="card-body text-center">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">@product.Price ₼</p>
+                                <a asp-controller="Cart" asp-action="AddToBasket" asp-route-productId="@product.Id" class="btn btn-orange">Səbətə at</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12 text-center mt-4">
+                    <p class="no-products-message">Axtardığınız filtrə uyğun yemək tapılmadı.</p>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script>
+    function search() {
+        let searchTerm = document.getElementById("searchBox").value;
+        let categoryId = document.getElementById("categorySelect").value;
+        let minPrice = document.getElementById("minPrice").value;
+        let maxPrice = document.getElementById("maxPrice").value;
+
+        let query = `/Menu/Index?searchTerm=${encodeURIComponent(searchTerm)}`;
+
+        // Category seçimi varsa, onu da query-ə əlavə et
+        if (categoryId && categoryId !== "") query += `&categoryId=${categoryId}`;
+
+        // Min və Max qiymətləri varsa, onları əlavə et
+        if (minPrice) query += `&minPrice=${minPrice}`;
+        if (maxPrice) query += `&maxPrice=${maxPrice}`;
+
+        // Yeni URL ilə səhifəni yenilə
+        window.location.href = query;
+    }
+</script>
+
+
+
+
+<style>
+    /* Narıncı Temaya Uyğun Rənglər */
+    .text-orange {
+        color: #FF9800;
+    }
+
+    .btn-orange {
+        background-color: #FF9800;
+        color: white;
+        border: none;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn-orange:hover {
+            background-color: #e68900;
+            color: white;
+        }
+
+    .btn-outline-orange {
+        color: #FF9800;
+        border: 1px solid #FF9800;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn-outline-orange:hover {
+            background-color: #FF9800;
+            color: white;
+        }
+
+    /* Yemək kartları */
+    .menu-card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    /* Filtrə uyğun məhsul tapılmadıqda çıxan mesaj (Qırmızı Error Mesajı) */
+    .no-products-message {
+        font-size: 18px;
+        color: white;
+        background-color: #FF4C4C; /* Qırmızı rəng */
+        font-weight: bold;
+        padding: 15px;
+        border-radius: 10px;
+        display: inline-block;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    }
+</style>

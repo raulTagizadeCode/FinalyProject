@@ -1,0 +1,19 @@
+﻿@using Project.BL.DTOs.BasketItemDTOs
+@model OrderCreateDto
+
+<h2>Sifariş Məlumatları</h2>
+<form asp-action="OrderDetails" method="post">
+    <div class="form-group">
+        <label for="orderCategory">Sifariş Kateqoriyası:</label>
+        <select asp-for="OrderCategoryId" asp-items="ViewBag.OrderCategory" class="form-control">
+            <option value="">Seçin</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="location">Çatdırılma Ünvanı:</label>
+        <input asp-for="Location" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Təsdiqlə</button>
+</form>

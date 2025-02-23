@@ -1,0 +1,47 @@
+﻿@using Project.BL.DTOs.MasaDTOs
+@model UpdateMasaDto
+@{
+    SelectList categories = ViewData["TableCategoryNumber"] as SelectList;
+    SelectList categories1 = ViewData["TableCategoryPlace"] as SelectList;
+
+}
+
+<!-- Begin Page Content -->
+<div class="row align-items-center justify-content-center col-12 p-0 m-0">
+    <div class="card shadow col-lg-6 col-md-8 col-10 p-0">
+        <div class="card-header d-flex justify-content-between align-items-center py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Add Place</h6>
+        </div>
+        <div class="card-body">
+            <form class="container" method="POST" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label" asp-for="TableNumber"></label>
+                    <input class="form-control" asp-for="TableNumber" />
+                    <span class="text-danger" asp-validation-for="TableNumber"></span>
+                </div>
+                <div class="mb-3">
+                    <select class="custom-select" asp-items="categories" asp-for="TableCategoryNumberId">
+                        <option selected>Select Category Number</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="TableCategoryNumberId"></span>
+                </div>
+
+
+                <div class="mb-3">
+                    <select class="custom-select" asp-items="categories1" asp-for="TableCategoryPlaceId">
+                        <option selected>Select Category Place</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="TableCategoryPlaceId"></span>
+                </div>
+                <div class="form-check mb-3">
+                    <input class="form-check-input" class="form-control" asp-for="IsActive" />
+                    <label class="form-check-label" asp-for="IsActive"></label>
+                </div>
+
+                <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->

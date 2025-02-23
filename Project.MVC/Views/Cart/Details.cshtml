@@ -1,0 +1,84 @@
+﻿@using Project.DAL.Models
+@model Order
+
+@{
+    ViewData["Title"] = "Sifariş Detalları";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Sifariş Detalları</h2>
+
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <p>
+                <strong>Status:</strong>
+               
+                @if (Model.Status == OrderStatus.Sent)
+                {
+                    <span class="badge bg-success">Göndərildi</span>
+                }
+                else if (Model.Status == OrderStatus.wasNoted)
+                {
+                    <span class="badge bg-warning">Gözləyir</span>
+                }
+            </p>
+            <p><strong>Ümumi Məbləğ:</strong> @Model.BasketItems.Sum(item => item.Price * item.Quantity) ₼</p>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Şəkil</th>
+                    <th>Yemək Adı</th>
+                    <th>Miqdar</th>
+                    <th>Qiymət</th>
+                    <th>Cəm</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.BasketItems)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/uploads/foods/@item.Food.ImageUrl" alt="@item.Food.Name" style="width: 100px; height: 80px; object-fit: cover;" />
+                        </td>
+                        <td>@item.Food.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price ₼</td>
+                        <td>@((item.Price * item.Quantity)) ₼</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-action="Sifaris" class="btn btn-secondary btn-lg">Geri</a>
+    </div>
+</div>
+<style>
+    .container {
+        max-width: 1000px;
+    }
+
+    .table-responsive {
+        margin-top: 20px;
+    }
+
+    .table-dark {
+        background-color: #343a40;
+        color: white;
+    }
+
+    .table-striped tbody tr:nth-child(odd) {
+        background-color: #f9f9f9;
+    }
+
+    .btn-secondary {
+        font-size: 1.2rem;
+        padding: 10px 20px;
+    }
+
+</style>

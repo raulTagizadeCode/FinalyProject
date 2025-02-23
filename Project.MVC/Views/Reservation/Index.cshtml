@@ -1,0 +1,112 @@
+﻿@using Project.BL.DTOs.MasaDTOs
+@model List<GetMasaDto>
+@{
+    SelectList categories = ViewData["TableCategoryNumber"] as SelectList;
+    SelectList categories1 = ViewData["TableCategoryPlace"] as SelectList;
+}
+@{
+    ViewData["Title"] = "Masaların Seçimi";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">🍽 Masaların Seçimi</h2>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    <!-- 🔍 Filtrləmə Formu -->
+    <div class="card shadow-lg p-4 mb-4 bg-white rounded">
+        <form method="get" class="row g-3">
+            <div class="col-md-3">
+                <select name="categoryId" id="categorySelect" class="form-control">
+                    <option value="">Masa Kateqoriyası Seçin</option>
+                    @foreach (var item in ViewData["TableCategoryNumber"] as SelectList)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-3">
+                <select name="placeId" id="placeSelect" class="form-control">
+                    <option value="">Yer Seçin</option>
+                    @foreach (var item in ViewData["TableCategoryPlace"] as SelectList)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-4 d-flex align-items-end">
+                <button type="submit" class="btn btn-dark w-100">🔍 Filtrlə</button>
+            </div>
+        </form>
+    </div>
+
+    <p class="text-danger text-center fw-bold">🔴 Cütlük masaları yalnız 2 nəfər üçündür. Ailəvi masalar 2-10 nəfər arasında olmalıdır.</p>
+
+    <!-- 🛑 Aktiv Masa Yoxdursa -->
+    @if (Model.Count == 0)
+    {
+        <div class="alert alert-warning text-center mt-3">⚠ Hazırda aktiv masa yoxdur.</div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Masa Nömrəsi</th>
+                        <th>Rezervasiya</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var table in Model)
+                    {
+                        <tr>
+                            <td class="fs-5 fw-bold">🪑 @table.TableNumber</td>
+                            <td>
+                                <!-- 📌 REZERVASİYA FORMU -->
+                                <form method="post" asp-action="Reserve">
+                                    <input type="hidden" name="tableId" value="@table.Id" />
+
+                                    <!-- 🕒 Saat Seçimi -->
+                                    <div class="mb-2">
+                                        <label for="reservationTime" class="fw-bold me-2">Saat:</label>
+                                        <input type="time" name="reservationTime" class="form-control d-inline-block w-auto" min="19:00" max="23:00" required />
+                                    </div>
+
+                                    <!-- 👥 Adam Sayı Seçimi -->
+                                    @if (table.TableCategoryNumberId == 1)
+                                    {
+                                        <!-- Cütlük masaları üçün yalnız 2 nəfər və dəyişdirilə bilməz -->
+                                        <div class="mt-2">
+                                            <label for="personCount" class="fw-bold me-2">Adam Sayı:</label>
+                                            <input type="number" name="personCount" class="form-control d-inline-block w-auto" value="2" readonly />
+                                        </div>
+                                    }
+                                    else if (table.TableCategoryNumberId == 2)
+                                    {
+                                        <!-- Ailəvi masalar üçün 2-10 nəfər arasında seçim edilə bilər -->
+                                        <div class="mt-2">
+                                            <label for="personCount" class="fw-bold me-2">Adam Sayı:</label>
+                                            <input type="number" name="personCount" class="form-control d-inline-block w-auto" min="2" max="10" required />
+                                        </div>
+                                    }
+
+                                    <button type="submit" class="btn btn-warning fw-bold mt-2">🛎 REZERV ET</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

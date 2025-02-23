@@ -1,0 +1,52 @@
+﻿@using Project.BL.DTOs.FoodDTOs
+@model UpdateFoodDto
+
+@{
+    SelectList categories = ViewData["Category"] as SelectList;
+}
+
+<!-- Begin Page Content -->
+<div class="row align-items-center justify-content-center col-12 p-0 m-0">
+    <div class="card shadow col-lg-6 col-md-8 col-10 p-0">
+        <div class="card-header d-flex justify-content-between align-items-center py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Update Place</h6>
+        </div>
+        <div class="card-body">
+            <form class="container" method="POST" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Name"></label>
+                    <input class="form-control" asp-for="Name" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Description"></label>
+                    <input class="form-control" asp-for="Description" />
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Image"></label>
+                    <input class="form-control" asp-for="Image" />
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Price"></label>
+                    <input class="form-control" asp-for="Price" />
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+                <div class="mb-3">
+                    <img style="width: 150px" src="~/uploads/foods/@Model.ImageUrl" />
+                </div>
+                <div class="mb-3">
+                    <select class="custom-select" asp-items="categories" asp-for="CategoryId">
+                        <option selected>Select Category</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="CategoryId"></span>
+                </div>
+               
+                <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->

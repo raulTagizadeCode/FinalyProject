@@ -1,0 +1,38 @@
+﻿﻿@using Project.DAL.Models
+@model TableCategoryPlace
+<!-- Begin Page Content -->
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Item Details</h6>
+        </div>
+        <div class="card-body">
+            <p>Id:@Model.Id </p>
+            <p>Create time:@Model.CreatedAt </p>
+            <p>Name:@Model.Name </p>
+        </div>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">TableNumber</th>
+            <th scope="col">TableCategoryNumberId</th>
+			<th scope="col">TableCategoryPlaceId</th>
+            <th scope="col">CreateAt</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Masa item in Model.Tables)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.TableNumber</td>
+                <td>@item.TableCategoryNumberId</td>
+                <td>@item.TableCategoryPlaceId</td>
+                <td>@item.CreatedAt</td>
+            </tr>
+        }
+    </tbody>
+</table>
