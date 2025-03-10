@@ -253,16 +253,16 @@ namespace Project.DAL.Migrations
                         {
                             Id = "be30629f-0508-461a-8fa1-0e905705e1f5",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "e583f8ac-e7eb-4362-bea0-c42a4b947c3a",
+                            ConcurrencyStamp = "ba90d736-f57e-4e73-b04a-4d2f4e299dd2",
                             Email = "raultag@gmail.com",
                             EmailConfirmed = false,
                             FirstName = "rauf",
                             LastName = "veliyev",
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAIAAYagAAAAEEJiowp4v7sQkKlc4IrIy3nmBAIL0LFybjrnH8jaHUBpt7etBrRohe0Ll21vgVLfkg==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEATYKcfrNh+Nzc31DjepB6OHa/JrXLZb8lwiWhOfbC8t2AwrPJrWDORGe31Xe28f7w==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "f2475ce0-72c0-41a9-a516-f0fcf40ec941",
+                            SecurityStamp = "59cea959-447e-4d79-a0ba-fb347acdc190",
                             TwoFactorEnabled = false,
                             UserName = "admin"
                         });
@@ -306,7 +306,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("OrderId");
 
-                    b.ToTable("BasketItems");
+                    b.ToTable("BasketItems", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Category", b =>
@@ -329,7 +329,7 @@ namespace Project.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Food", b =>
@@ -368,7 +368,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Foods");
+                    b.ToTable("Foods", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Job", b =>
@@ -407,7 +407,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("JobCategoryId");
 
-                    b.ToTable("Jobs");
+                    b.ToTable("Jobs", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.JobApplication", b =>
@@ -457,7 +457,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("JobId");
 
-                    b.ToTable("JobApplications");
+                    b.ToTable("JobApplications", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.JobCategory", b =>
@@ -480,7 +480,7 @@ namespace Project.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("JobCategories");
+                    b.ToTable("JobCategories", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Masa", b =>
@@ -515,7 +515,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("TableCategoryPlaceId");
 
-                    b.ToTable("Masas");
+                    b.ToTable("Masas", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Order", b =>
@@ -526,24 +526,12 @@ namespace Project.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
-
                     b.Property<int>("Status")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("UpdateAt")
-                        .HasColumnType("datetime2");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId");
-
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Rayting", b =>
@@ -574,7 +562,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("AppUserId");
 
-                    b.ToTable("Raytings");
+                    b.ToTable("Raytings", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Reservation", b =>
@@ -613,7 +601,7 @@ namespace Project.DAL.Migrations
 
                     b.HasIndex("MasaId");
 
-                    b.ToTable("Reservations");
+                    b.ToTable("Reservations", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.Setting", b =>
@@ -634,7 +622,7 @@ namespace Project.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Settings");
+                    b.ToTable("Settings", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.TableCategoryNumber", b =>
@@ -657,7 +645,7 @@ namespace Project.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("TableCategoryNumbers");
+                    b.ToTable("TableCategoryNumbers", (string)null);
                 });
 
             modelBuilder.Entity("Project.DAL.Models.TableCategoryPlace", b =>
@@ -680,7 +668,7 @@ namespace Project.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("TableCategoryPlaces");
+                    b.ToTable("TableCategoryPlaces", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -811,17 +799,6 @@ namespace Project.DAL.Migrations
                     b.Navigation("TableCategoryPlace");
                 });
 
-            modelBuilder.Entity("Project.DAL.Models.Order", b =>
-                {
-                    b.HasOne("Project.DAL.Models.AppUser", "AppUser")
-                        .WithMany("Orders")
-                        .HasForeignKey("AppUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("AppUser");
-                });
-
             modelBuilder.Entity("Project.DAL.Models.Rayting", b =>
                 {
                     b.HasOne("Project.DAL.Models.AppUser", "AppUser")
@@ -854,8 +831,6 @@ namespace Project.DAL.Migrations
 
             modelBuilder.Entity("Project.DAL.Models.AppUser", b =>
                 {
-                    b.Navigation("Orders");
-
                     b.Navigation("Raytings");
 
                     b.Navigation("Reservations");

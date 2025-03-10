@@ -23,7 +23,9 @@
                     <h4 class="price text-success fw-bold mb-4">@Model.Price AZN</h4>
                     <p class="text-muted mb-4">@Model.Description</p>
                     <div class="product__details-qty mt-3 d-flex gap-4">
-                        <button class="btn btn-outline-primary px-4 py-2 fw-bold shadow-sm" style="font-size: 16px; width: 200px;">Add To Cart</button>
+                        <a asp-controller="Cart" asp-action="AddToBasket" asp-route-productId="@Model.Id">
+                        <button>Add To Cart</button>
+                        </a>
                         <button class="btn btn-primary px-4 py-2 fw-bold shadow-sm" style="font-size: 16px; width: 200px;">Buy it Now</button>
                     </div>
                 </div>

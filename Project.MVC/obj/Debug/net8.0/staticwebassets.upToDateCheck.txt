@@ -424,16 +424,19 @@ wwwroot\uploads\cvs\7b51a911-a448-450c-967a-81efefa59953baliq 1.jpg
 wwwroot\uploads\cvs\7d97aa46-fa73-469b-a904-ec9ac044ab16Screenshot 2024-11-27 014745.png
 wwwroot\uploads\cvs\82bccfaa-6c66-4d5e-91e5-2402d5536d10cv.jpg
 wwwroot\uploads\cvs\87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx
+wwwroot\uploads\cvs\962b91bb-c2dd-41d6-91f5-9e3c2896e95f87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx
 wwwroot\uploads\cvs\97408bd6-fc4f-4617-bbe9-98b69cda2630cv.jpg
 wwwroot\uploads\cvs\adc073dd-f7fe-4b60-ac6a-10627b5561e7limonlu.jpg
 wwwroot\uploads\cvs\bd500142-8e6c-4288-86c9-eaa61e384dcesitru.jpg
 wwwroot\uploads\cvs\bdfeef96-2fd0-4474-a688-930ed6c52e68cv.jpg
 wwwroot\uploads\cvs\c94ae6ae-f0e6-492d-a9c4-c1d47e75574eScreenshot 2024-11-27 014745.png
+wwwroot\uploads\cvs\da89bc90-105f-48cf-a69f-16cbac0d976f634087d3-d987-48ff-b19a-fa835e39a96a87b9f79d-d2d1-44cf-b76d-5e3897250fe951feb8ce-9333-49ca-bf73-4903201483e4test.cv.docx
 wwwroot\uploads\cvs\fbca465b-1dab-45d9-82b3-d6f773aa6b34Screenshot 2024-11-27 014745.png
 wwwroot\uploads\cvs\ff10ac30-c482-49fa-b1be-0b01532a415bbunu_silen_binnnandi.txt
 wwwroot\uploads\foods\03151df4-7ad1-454f-9a6b-2d4e2a0bf106harco.jpg
 wwwroot\uploads\foods\0b7bb706-fb0d-4640-b965-e3d35cdfb27cshaw.jpg
 wwwroot\uploads\foods\16bfd376-0664-4347-926a-1ddc47e79dc7ches.jpg
+wwwroot\uploads\foods\17a6a0c9-58c6-4c50-a7ac-4fe562a40623fatus.jpg
 wwwroot\uploads\foods\19e8a6b2-405d-4d60-ab6c-e9b93db560a4yunan.jpg
 wwwroot\uploads\foods\1ea38637-d973-45ae-b308-34e47e82ab23baliq 1.jpg
 wwwroot\uploads\foods\2038a5b6-8c53-4e28-ac08-92ca82820966baliq 3.jpg
@@ -445,8 +448,10 @@ wwwroot\uploads\foods\2f6581ba-5c4b-47f1-b33b-5da5c080f7d0hotdoh.jpg
 wwwroot\uploads\foods\2f790db2-19c3-4a7d-9e60-8534e6011b6fqarpiz.jpg
 wwwroot\uploads\foods\310c3034-e454-4052-8df0-68d05ccc4585qutab.jpg
 wwwroot\uploads\foods\31de3e91-b3f8-4975-8d09-ab58ddbcd927omlet.jpg
+wwwroot\uploads\foods\32cc23cf-ee31-4b72-8a94-22b013bc7e14sitru.jpg
 wwwroot\uploads\foods\33321225-53a6-4bac-a116-b108f8bd13b1panna.jpg
 wwwroot\uploads\foods\35ca1c1b-c6b4-4775-93fc-49050962861fsitru.jpg
+wwwroot\uploads\foods\38ca6ffd-acbb-432c-aeed-c93742fb5f9fbaliq 2.jpg
 wwwroot\uploads\foods\3a11d59a-d051-4d57-a97c-00f46672ffcashaw.jpg
 wwwroot\uploads\foods\3f1a4212-292b-4472-b672-9675dcc047cashaw.jpg
 wwwroot\uploads\foods\3fd3dd9b-8889-4e65-aac2-6698ed5c291etomato.jpg
@@ -456,11 +461,13 @@ wwwroot\uploads\foods\4c8c6448-6d37-467b-9f1e-58b5c560a2a6ches.jpg
 wwwroot\uploads\foods\4cd93ff0-7aee-451d-89a8-e61f8f0eabb9qutab.jpg
 wwwroot\uploads\foods\4dc9c036-2b42-4ec0-a1a1-39dab65a57ccbors.jpg
 wwwroot\uploads\foods\4e42734e-29dd-4ec0-a134-ce42276f001bmush.jpg
+wwwroot\uploads\foods\5183e296-e624-4b7d-a2ec-198ee6a12075shaw.jpg
 wwwroot\uploads\foods\56aaabd1-0608-477a-91b5-7ef65afc7badbaliq  5.jpg
 wwwroot\uploads\foods\58b5df82-243d-41e4-8bd8-c29a772c53b0limonlu.jpg
 wwwroot\uploads\foods\5df6ac6f-1c88-4690-8af7-4392d994b8c7shaw.jpg
 wwwroot\uploads\foods\5fe6f448-4437-405f-b374-e3abc4482c28mushh.jpg
 wwwroot\uploads\foods\6138d288-85e0-424f-bd2c-556bd41d6f98chic.jpg
+wwwroot\uploads\foods\6d2f6276-bbef-47f4-9dbc-92257e568107sitru.jpg
 wwwroot\uploads\foods\6d634b37-d84c-4c37-ba6d-8c9c894b62c9fatus.jpg
 wwwroot\uploads\foods\6e665ab4-474b-48eb-ade9-a4ca8747209bsezar.jpg
 wwwroot\uploads\foods\6e69d651-83b1-4622-b8c0-e924fde97a84sitru.jpg
@@ -480,6 +487,7 @@ wwwroot\uploads\foods\8b6dc430-890d-436d-8741-f3216709c645shaw.jpg
 wwwroot\uploads\foods\95619e92-732f-480c-9911-12ee6d9160abtomato.jpg
 wwwroot\uploads\foods\9561e9e4-3ef1-44db-aaae-f07d79272989mush.jpg
 wwwroot\uploads\foods\960059e8-33e4-48ac-a22b-1dad0b3c8bdeqarpiz.jpg
+wwwroot\uploads\foods\9b71e2dd-e3e5-4e84-ae86-fcac4c675250cv.jpg
 wwwroot\uploads\foods\9f01bcbb-ab61-4e75-9586-9396d034aee6fatus.jpg
 wwwroot\uploads\foods\a0ad8b0c-8d29-42dc-8de5-efe8f3adca09nuggets.jpg
 wwwroot\uploads\foods\a98c2e2b-ec54-46e0-8cc0-06823ec8fea4shashlik.jpg
@@ -493,12 +501,15 @@ wwwroot\uploads\foods\c4d841f0-3c25-4e63-b4b1-3b529d299e21shaw.jpg
 wwwroot\uploads\foods\c514db1f-bc18-4803-9ad9-ee5c2dd5321dqutab.jpg
 wwwroot\uploads\foods\c539b403-e0d2-4fef-96bf-f5aa2c7a33f7paella.jpg
 wwwroot\uploads\foods\cae1b22a-9a02-4df4-8123-29b0505a53c7shaw.jpg
+wwwroot\uploads\foods\cc050f30-f137-4f34-8af0-351224003e93shaw.jpg
 wwwroot\uploads\foods\cc36e814-418f-4d08-90fe-45673bc3db3dbaklava.jpg
 wwwroot\uploads\foods\cd81ff23-25d3-41c5-bc9c-83d8f87e888amushh.jpg
 wwwroot\uploads\foods\d1e6b951-9f39-4d96-a67d-d21feb13b737hotdoh.jpg
+wwwroot\uploads\foods\d5e49e9f-9142-46ec-9a73-dbe7d290892asitru.jpg
 wwwroot\uploads\foods\d6da0431-d4f3-40f6-a565-55b0dcde7446margarita.jpg
 wwwroot\uploads\foods\db19aa15-af5b-4b4c-93e3-a3d3a05d176bhotdoh.jpg
 wwwroot\uploads\foods\dc349005-186e-48fd-9f66-d9f4be982cadfishandchips.jpg
+wwwroot\uploads\foods\eb16f48d-7b57-4011-90ab-191280d66741hotdoh.jpg
 wwwroot\uploads\foods\eba9a0df-8d3d-46b0-8e85-90d49a992321panna.jpg
 wwwroot\uploads\foods\f2b1e35d-71e2-4d66-93f7-004e9cb8f825krem.jpg
 wwwroot\uploads\personals\0010c619-e23e-4ae4-a649-4ad38607e841qiz aspaz.jpg
@@ -510,11 +521,13 @@ wwwroot\uploads\personals\1fbc6422-9415-4c21-9909-806600a3cbc8Screenshot 2024-11
 wwwroot\uploads\personals\2683bee4-b218-4f4b-a9b7-cf676a5ce1a4sitru.jpg
 wwwroot\uploads\personals\2c4004e3-1e40-4fb9-b9ff-2a62288ad02fScreenshot 2024-11-27 015802.png
 wwwroot\uploads\personals\3ac0c50c-a9a8-490b-9225-cd9842b5ab75barmen.jpg
+wwwroot\uploads\personals\59402857-9fff-4f89-b848-68ad2a1d6b4fprofilsekili.png
 wwwroot\uploads\personals\a6599ca9-12d5-430d-90e5-4a09b8ac9ba2sitru.jpg
 wwwroot\uploads\personals\adb911ae-4167-4b5d-bdea-b4cd4d1e711fprofilsekili.png
 wwwroot\uploads\personals\c2ae21a0-b845-434f-b8ce-0c560a6139a3qiz aspaz.jpg
 wwwroot\uploads\personals\ca232629-337d-4dfc-8e19-a9c234fde55baspaz.jpg
 wwwroot\uploads\personals\ce1eb51d-e005-4713-9aee-d3fe283bc0e5barmen.jpg
 wwwroot\uploads\personals\d7c05bf8-386d-4da7-9c33-b5539cfff767barmen.jpg
+wwwroot\uploads\personals\d9447166-b9d2-4ff7-a82d-6d4d4c7f497dprofilsekili.png
 wwwroot\uploads\personals\ea53e25f-01f3-425c-b317-b16b925e151eqarpiz.jpg
 wwwroot\uploads\personals\f8a7ece0-9620-48e8-9de1-fbf302881b03hind.jpg

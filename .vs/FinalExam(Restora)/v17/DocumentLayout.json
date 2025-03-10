@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAD3ADB-FEEB-4E05-86ED-4B9BC16D4ABD}|Project.BL\\Project.BL.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.bl\\services\\implemantantions\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAD3ADB-FEEB-4E05-86ED-4B9BC16D4ABD}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implemantantions\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\areas\\admin\\views\\masa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\masa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\cart\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\cart\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\menu\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\menu\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|c:\\users\\rault\\onedrive\\desktop\\finalexam(restora)\\project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22352A54-DF6C-4348-9BCA-A25E9511E989}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T07:02:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\appsettings.json",
+              "RelativeToolTip": "Project.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T05:53:54.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.BL\\Services\\implemantantions\\AccountService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\implemantantions\\AccountService.cs",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.BL\\Services\\implemantantions\\AccountService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\implemantantions\\AccountService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwDoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:52:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:52:42.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Areas\\Admin\\Views\\Masa\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Masa\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Areas\\Admin\\Views\\Masa\\Details.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Masa\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAADgvzIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:28:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv58AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:22:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Cart\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Cart\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Cart\\OrderDetails.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Cart\\OrderDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:22:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Info.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Menu\\Info.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Info.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Menu\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:17:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAADgvzoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:17:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:16:37.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:16:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rault\\OneDrive\\Desktop\\FinalExam(Restora)\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAADgv2wAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:04:45.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
